@@ -24,3 +24,16 @@ The code is designed to handle large datasets by fetching posts in small batches
 4. **Clean and Modular**: Easily understandable, scalable, and maintainable structure.
 
 This code snippet highlights my ability to solve practical challenges in a scalable, user-focused manner.
+
+### Screensots
+
+![AI Summarization](https://github.com/tindi-plus/everything-app/blob/main/Screenshot_20240622_144716.jpg)
+
+
+![Choose Audience](https://github.com/tindi-plus/everything-app/blob/main/chooseAudience.png)
+
+
+![Create Post](https://github.com/tindi-plus/everything-app/blob/main/Screenshot_20240524_160742.jpg)
+
+
+![Aundience on Table](https://github.com/tindi-plus/everything-app/blob/main/AudienceOnTable.png)
